@@ -351,14 +351,14 @@ hr{
 
 /*FOOTER SECTION*/
 .footer-section{
-    padding: 190px 8%;
+    padding: 80px 8%;
     background-color: #000088;
 }
 .footer-content{
     display: flex;
     justify-content: space-between;
     color: #ffff;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 32.2px;
     padding-bottom: 20px;
 }
@@ -386,7 +386,7 @@ hr{
 }
 .footer-text h4{
 font-weight: 600;
-font-size: 32px;
+font-size: 30px;
 }
 .fa {
   font-size: 25px;
